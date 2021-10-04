@@ -1,4 +1,4 @@
-# Deploy a Web-app using stack to a docker-swarm.
+# Deploying a Web-app using stack to a docker-swarm.
 ### [Docker-compose + Swarm + docker stack deploy]
 Hi Geeks,
 
