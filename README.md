@@ -131,6 +131,8 @@ $ docker stack services webapp-stack
 ```
 Once it’s running, you should see 1/1 under REPLICAS for both services. This might take some time if you have a multi-node swarm, as images need to be pulled.
 
+I have also setup an AWS Application load balancer by using my worker nodes to manage the traffic into the webapp. 
+
 _Thank you_
 
    [df1]: <https://docs.docker.com/engine/swarm/>
