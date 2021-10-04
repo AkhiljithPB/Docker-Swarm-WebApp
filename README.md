@@ -12,7 +12,7 @@ I have used docker compose feature to create services for nginx and php-fpm whic
 - Nginx webserver, PHP-FPM
 - [NFS server][df3]   
 ## Architecture
-![image text](https://github.com/AkhiljithPB/Rolling-update-Ansible-Jenkins-ASG/blob/a7c8dbe9a71ddda491c3590ab91610729426e483/architecute.png "image Title")
+![image text](https://github.com/AkhiljithPB/Docker-Swarm-WebApp/blob/0fc0687fa9ad68966eddfa09bba87690bc26250e/docker-swarm.png "image Title")
 
 ### Setup
 The first thing you have to do is, of course, install Docker (if you haven’t already). The second prerequisite is getting Docker Compose (it is included in the Mac toolbox)
